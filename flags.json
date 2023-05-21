@@ -314,5 +314,25 @@
   {
     "country": "Costa Rica",
     "flag": "https://hatscripts.github.io/circle-flags/flags/cr.svg"
+  },
+  {
+    "country": "Albania",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/al.svg"
+  },
+  {
+    "country": "Algeria",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/dz.svg"
+  },
+  {
+    "country": "Andorra",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/ad.svg"
+  },
+  {
+    "country": "Armenia",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/am.svg"
+  },
+  {
+    "country": "Serbia",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/rs.svg"
   }
 ]
