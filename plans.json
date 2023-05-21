@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "sku": "gear_premium_sub_1",
+            "name": "Monthly",
+            "billingCycleMonth": 1
+        },
+        {
+            "sku": "gear_premium_sub",
+            "name": "Quarterly",
+            "billingCycleMonth": 3
+        }
+    ]
+}
