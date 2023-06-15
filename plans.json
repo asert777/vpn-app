@@ -1,18 +1,13 @@
 {
     "data": [
         {
-            "sku": "vpn-premium-sub-1",
+            "sku": "vpn_premium",
             "name": "Monthly",
             "billingCycleMonth": 1
         },
         {
-            "sku": "vpn-premium-sub-2",
-            "name": "Quarterly",
-            "billingCycleMonth": 3
-        },
-        {
             "sku": "vpn_premium",
-            "name": "test",
+            "name": "Quarterly",
             "billingCycleMonth": 3
         }
     ]
