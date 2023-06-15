@@ -9,6 +9,11 @@
             "sku": "vpn-premium-sub-2",
             "name": "Quarterly",
             "billingCycleMonth": 3
+        },
+        {
+            "sku": "vpn_premium",
+            "name": "test",
+            "billingCycleMonth": 3
         }
     ]
 }
